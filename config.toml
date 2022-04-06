@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://bernardoespinoza02.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "La Bitácora de Viaje de Bernardo Espinoza "
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -12,8 +12,8 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  # Hey Explorer aquí pon tu instagram 👇
+  twitter_handle = "@ben.espinoza.02"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
