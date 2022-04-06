@@ -5,17 +5,15 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quien Soy
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola! Mi nombre es Bernardo Espinoza. 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy una persona alegre.
+> Soy amante de las melodias en violin. 
+> Soy una persona comprometida con mis valores. 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Tengo 33 años, soy ingeniero en comunicaciones y electronica, egresadao del Instituto Politecnico Nacional, tengo la especialidad de electrónica.
+Actualmente estoy residiendo en el EDO. MEX., dentro de las cosas que gusta es el andar en bicicleta, y estoy pensando en comenzar a andar en motociclieta, me gusta el practicar violin. A estas alturas de mi vida estoy en un proceso de autodescubrimeinto personal. 
 
+Una frace que me gusta es: **" Unos nacen con estrella, otros nacen estrellados y algunos otros aprendemos a brillar sin importar nuestro estado."**
