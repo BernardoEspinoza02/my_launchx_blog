@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bernardoespinoza02.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Travesia por Launchx</title>
+      <link>https://bernardoespinoza02.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bernardoespinoza02.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! amigos, el contenido que se muestra a continuación es una breve historia con respecto a este gran viaje que he comenzado para aprender a programar. Desde el inicio tenía una gran expectativa en este programa ya que es de innovaccion, gracias a ellos logre mi primera certificación de Azure AZ-900 y no podía dejar pasar esta gran oportunidad. Desde que tenía 16 años me ha gustado la tecnología y saber que puedo lograr un montón de cosas con ello, pero por circunstancias de la vida lo había dejado a un lado a estas alturas de mi vida quise volver a retomarlo, pero no sabía por dónde comenzar, y bum!</description>
+    </item>
+    
   </channel>
 </rss>
