@@ -16,5 +16,14 @@
       <description>¡Hola! amigos, el contenido que se muestra a continuación es una breve historia con respecto a este gran viaje que he comenzado para aprender a programar. Desde el inicio tenía una gran expectativa en este programa ya que es de innovaccion, gracias a ellos logre mi primera certificación de Azure AZ-900 y no podía dejar pasar esta gran oportunidad. Desde que tenía 16 años me ha gustado la tecnología y saber que puedo lograr un montón de cosas con ello, pero por circunstancias de la vida lo había dejado a un lado a estas alturas de mi vida quise volver a retomarlo, pero no sabía por dónde comenzar, y bum!</description>
     </item>
     
+    <item>
+      <title>La cultura de un desarrollador</title>
+      <link>https://bernardoespinoza02.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://bernardoespinoza02.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Usa este post para anotar tus expectativas de la misión.</description>
+    </item>
+    
   </channel>
 </rss>
