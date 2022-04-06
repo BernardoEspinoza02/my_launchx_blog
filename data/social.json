@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/ben.espinoza.02/",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/BernardoEspinoza02",
       "image": "images/social/github.svg"
     }
   ]
