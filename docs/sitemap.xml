@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bernardoespinoza02.github.io/my_launchx_blog/posts/</loc>
-    <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <loc>https://bernardoespinoza02.github.io/my_launchx_blog/posts/git_b%C3%A1sico/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bernardoespinoza02.github.io/my_launchx_blog/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bernardoespinoza02.github.io/my_launchx_blog/posts/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bernardoespinoza02.github.io/my_launchx_blog/posts/post_1/</loc>
