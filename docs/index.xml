@@ -13,7 +13,9 @@
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bernardoespinoza02.github.io/my_launchx_blog/posts/git_b%C3%A1sico/</guid>
-      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+      <description>¿Que es Git? 🤖 Git es un sistema de control de versiones, sus siglas en ingles (VCS)
+¿Ques es un Control de Versiones? Un control de versiones es un sistema que va registrando los cambios realizados ya sea en un archivo o un conjunto de archivos a lo largo del tiempo de tal manera que se puedan recuperar las versiones especificas más delante de ser necesario.
+ Nota: Git y GitHub no es lo mismo.</description>
     </item>
     
     <item>

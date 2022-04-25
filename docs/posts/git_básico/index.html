@@ -14,12 +14,12 @@
   
 
   
-    <meta name="description" content="Comandos básicos de Git"/>
+    <meta name="description" content="Comandos básicos de Git aprendidos en LaunhX"/>
     <meta property="og:title" content="Git Básico"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://bernardoespinoza02.github.io/my_launchx_blog/posts/git_b%C3%A1sico/"/>
     
-    <meta property="og:description" content="Comandos básicos de Git"/>
+    <meta property="og:description" content="Comandos básicos de Git aprendidos en LaunhX"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@ben.espinoza.02"/>
     <meta name="twitter:creator" content="@ben.espinoza.02"/>
@@ -59,7 +59,108 @@
       
     </div>
     <div class="content">
-      <p>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</p>
+      <h2 id="que-es-git-">¿Que es Git? 🤖</h2>
+<p>Git es un sistema de control de versiones, sus siglas en ingles (VCS)</p>
+<h2 id="ques-es-un-control-de-versiones">¿Ques es un Control de Versiones?</h2>
+<p>Un control de versiones es un sistema que va registrando los cambios realizados ya sea en un archivo o un conjunto de archivos a lo largo del tiempo de tal manera que se puedan recuperar las versiones especificas más delante de ser necesario.</p>
+<blockquote>
+<p>Nota: Git y GitHub no es lo mismo. 👀</p>
+<p>Nota: GitHub es una plataforma donde puedes alojar proyectos utilizando un VCS. 👀</p>
+</blockquote>
+<h2 id="-beneficios-al-usar-un-sistema-de-control-de-versiones-">✔ Beneficios al usar un sistema de control de versiones 🏆</h2>
+<ul>
+<li>Regresar a versiones anteriores de tus archivos.</li>
+<li>Regresar a versiones de un proyecto completo.</li>
+<li>Comparar cambios en el tiempo</li>
+<li>Ver quien modifico los archivos y en que tiempo</li>
+<li>Corregir problemas pudiendo regresar en algun punto en el tiempo cuando se modifico</li>
+<li>Si llegas a arruinar o perder un archivo sera posible recuperarlo facilmente.</li>
+</ul>
+<p><strong>Git</strong> tiene 3 estados principales:</p>
+<ul>
+<li>Confirmado: Significa que los datos están almacenados de manera segura en tu base de datos local.</li>
+<li>Modificado: Significa que has modificado el archivo pero todavía no lo has confirmado a tu base de datos.</li>
+<li>Preparado: Significa que has marcado un archivo modificado en su versión actual para que vayya en tu próxima confirmacíon.{</li>
+</ul>
+<blockquote>
+<p>git esta para SO. linux, mac y windows
+Nota: Puedes descargarlo desde la siguiente liga <a href="https://git-scm.com/downloads">Git Descarga</a></p>
+</blockquote>
+<h2 id="comandos-basicos-de-git">Comandos basicos de git</h2>
+<ul>
+<li>Revisar que esta instalado git y que version tines instalado</li>
+</ul>
+<blockquote>
+<p>$git &ndash;version</p>
+</blockquote>
+<ul>
+<li>Enlasar nuestro git con GitHub</li>
+</ul>
+<blockquote>
+<p>$git config &ndash;global user.name &ldquo;Nombre de perfil de github&rdquo;</p>
+<p>$git cinfig &ndash;global user.email &ldquo;e-mail de perfil&rdquo;</p>
+<p>nota: Los datos ingresados van sin comillas.</p>
+</blockquote>
+<ul>
+<li>Como cualquier programa git tambien tiene la seccion de ayuda, puedes ingresar el codigo de tres formas, posterior a eso se abrira una pagina web con la documentacion solicitada:</li>
+</ul>
+<blockquote>
+<p>$git help &ldquo;comando&rdquo;</p>
+<p>$ git &ldquo;comando&rdquo; &ndash;help</p>
+<p>$ man git-&ldquo;comando&rdquo;</p>
+</blockquote>
+<h3 id="crear-un-nuevo-repositorio">Crear un nuevo Repositorio</h3>
+<ul>
+<li>Crear una carpeta donde se guardara el repositorio, e inicializar git con el siguiente comando. En la carpeta de tu proyecto si tienes activo cisualizar archivos ocultos podras ver una carpeta de .git oculta</li>
+</ul>
+<blockquote>
+<p>$ git init</p>
+</blockquote>
+<ul>
+<li>Para revisar si tienes archivos no registrados</li>
+</ul>
+<blockquote>
+<p>$git status</p>
+</blockquote>
+<ul>
+<li>Para agregar cambios de los archivos puede ser todos los cambios juntos o por archivo por archivo.</li>
+</ul>
+<blockquote>
+<p>$git add .   // Esto es para todos los archivos</p>
+<p>$git add &ldquo;nombre del archivo&rdquo; // Esto es para un archivoi en especifico</p>
+</blockquote>
+<ul>
+<li>Para agregar comentarios a cada cambio que se va realizando</li>
+</ul>
+<blockquote>
+<p>$git commit -m &ldquo;Comentario&rdquo; // El comentario si va entre &ldquo;&rdquo;.'</p>
+</blockquote>
+<ul>
+<li>Para visualizar los comentarios que se han realizado, va del mas reciente al mas antiguo as como el numero de registro de cada commit.</li>
+</ul>
+<blockquote>
+<p>$git log</p>
+</blockquote>
+<h3 id="para-clonar-un-reporsitorio-desde-github">Para clonar un reporsitorio desde GitHub</h3>
+<ul>
+<li>Para esto necesitamos el URL del repositorio o la llave de SSH</li>
+</ul>
+<blockquote>
+<p>$git clone &ldquo;Url o SSH &quot;</p>
+</blockquote>
+<h3 id="otros-comandos">Otros comandos</h3>
+<ul>
+<li>Para visualizar cambios que se han realizado en el archivo</li>
+</ul>
+<blockquote>
+<p>$git show</p>
+</blockquote>
+<ul>
+<li>Para visualizar diferencias entre archivos locales y en linea</li>
+</ul>
+<blockquote>
+<p>$git diff</p>
+</blockquote>
 
     </div>
   </div>
